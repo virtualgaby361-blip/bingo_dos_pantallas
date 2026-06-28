@@ -1,0 +1,6 @@
+{
+  "name": "Bingo Admin",
+  "description": "Una aplicación web premium para la administración y generación de cartones de Bingo en tiempo real, incluyendo simulación de bolillero, vista previa interactiva e impresión adaptable.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
